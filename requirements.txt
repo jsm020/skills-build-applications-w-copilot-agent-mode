@@ -1,0 +1,5 @@
+# requirements.txt for aiogram Telegram bot
+aiogram==3.4.1
+SQLAlchemy>=2.0
+aiosqlite
+python-dotenv
